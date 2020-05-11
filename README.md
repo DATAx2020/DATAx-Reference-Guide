@@ -8,4 +8,4 @@ A though though collection of useful methods for programming with python, to be 
     * 2.2 [Dictonary](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/dictonary_eng.ipynb)
     * 2.3 [Tuple](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/tuples_eng.ipynb)
 3. Loops
-4. Functions
+4. [Functions](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/functions_eng.ipynb)
