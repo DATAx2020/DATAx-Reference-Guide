@@ -4,4 +4,4 @@ A though though collection of useful methods for programming with python, to be 
 ## Navigation
 
 1. Datatypes
-* 1.1 Lists
+* 1.1 [Lists](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/lists_eng.ipynb)
