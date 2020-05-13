@@ -10,7 +10,7 @@ A though though collection of useful methods for programming with python, to be 
     * 2.4 Strings
     * 2.5 Numbers
 3. [Loops](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/loops_eng.ipynb)
-4. If / Else / Elif
+4. [If / Else / Elif](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/If%20Else%20Elif%20Operators%20eng.ipynb)
 5. [Functions](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/functions_eng.ipynb)
 6. Numpy
 7. Pandas
