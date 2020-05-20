@@ -14,9 +14,9 @@ A though though collection of useful methods for programming with python, to be 
    * 3.2. [If / Else / Elif](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/If%20Else%20Elif%20Operators%20eng.ipynb)
    * 3.3. [Functions](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/functions_eng.ipynb)
 4. Python Datascience Libraries
-   * 4.1. Numpy
-   * 4.2. Pandas
-   * 4.3. Sympy
-   * 4.4. Matplotlib
+   * 4.1. [Numpy](https://github.com/Tanu-N-Prabhu/Python/blob/master/Numpy/Numpy_1.ipynb)
+   * 4.2. [Pandas](https://github.com/Tanu-N-Prabhu/Python/blob/master/Pandas/Pandas_DataFrame.ipynb)
+   * 4.3. [Sympy]
+   * 4.4. [Matplotlib]
 5. Problem Solving
 
