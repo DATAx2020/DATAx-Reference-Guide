@@ -4,13 +4,19 @@ A though though collection of useful methods for programming with python, to be 
 ### Navigation
 1. [Variable](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/variables_en.ipynb)
 2. Datatypes
-    * 2.1 [Lists](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/lists_eng.ipynb)
-    * 2.2 [Dictonary](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/dictonary_eng.ipynb)
-    * 2.3 [Tuple](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/tuples_eng.ipynb)
-    * 2.4 [String(german)](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/string_de.ipynb)
-    * 2.5 Numbers
-3. [Loops](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/loops_eng.ipynb)
-4. [If / Else / Elif](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/If%20Else%20Elif%20Operators%20eng.ipynb)
-5. [Functions](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/functions_eng.ipynb)
-6. Numpy
-7. Pandas
+    * 2.1. [Lists](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/lists_eng.ipynb)
+    * 2.2. [Dictonary](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/dictonary_eng.ipynb)
+    * 2.3. [Tuple](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/tuples_eng.ipynb)
+    * 2.4. [String(german)](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/string_de.ipynb)
+    * 2.5. Numbers
+3.Control Flow   
+   * 3.1. [Loops](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/loops_eng.ipynb)
+   * 3.2. [If / Else / Elif](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/If%20Else%20Elif%20Operators%20eng.ipynb)
+   * 3.3. [Functions](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/functions_eng.ipynb)
+4. Python Datascience Libraries
+   * 4.1. Numpy
+   * 4.2. Pandas
+   * 4.3. Sympy
+   * 4.4. Matplotlib
+5. Problem Solving
+
