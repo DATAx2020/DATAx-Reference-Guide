@@ -9,7 +9,7 @@ A though though collection of useful methods for programming with python, to be 
     * 2.3. [Tuple](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/tuples_eng.ipynb)
     * 2.4. [String(german)](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/string_de.ipynb)
     * 2.5. Numbers
-3.Control Flow   
+3. Control Flow   
    * 3.1. [Loops](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/loops_eng.ipynb)
    * 3.2. [If / Else / Elif](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/If%20Else%20Elif%20Operators%20eng.ipynb)
    * 3.3. [Functions](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/functions_eng.ipynb)
