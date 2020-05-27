@@ -18,5 +18,5 @@ A though though collection of useful methods for programming with python, to be 
    * 4.2. [Pandas](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/pandas.ipynb)
    * 4.4. [Matplotlib](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/matplotlib_en.ipynb)
 5. Problem Solving
-   * 5.1. [External Sources](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/external_source.ipynb)
-   * 5.2. [Making an Algorithm](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/problem_eng.ipynb)
+   * 5.1. [Making use of existing coding knowledge](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/external_source.ipynb)
+   * 5.2. [General approach to problem solving](https://github.com/DATAx2020/DATAx-Reference-Guide/blob/master/problem_eng.ipynb)
